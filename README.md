@@ -1,4 +1,4 @@
-COS 308 Operating Systems Practical Assignment
+CSC 308 Operating Systems Practical Assignment
 
  Student Information
 
