@@ -8,7 +8,7 @@ Department: Information Technology
 
 Registration Number: 2023914002
 
-Course: COS 308 - Operating Systems
+Course: CSC 308 - Operating Systems
 
 Institution: Nnamdi Azikiwe University, Awka
 
